@@ -686,13 +686,10 @@ h1, h2, h3, h4, h5, h6 {
 
 @media only screen and (max-width: 768px){
     .header__logo{
-        margin-left: 25%;
-    }
-    .header__menu{
-        margin-right: 2.8rem;
+        margin-left: 5%;
     }
     .banner{
-        margin-top: 6.5rem;
+        margin-top: 7rem;
         flex-direction: column;
         padding: 50px 0;
     }
@@ -725,19 +722,16 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 30px;
     }
     .search-box{
-        margin: 0 auto;
+        margin: 0 2.5rem;
         text-align: center;
-        display: inline-block;
-        position: relative;
-        width: 400px;
     }
     .Internships-card{
         margin-top: 1rem;
         border-radius: 0%;
     }
     .Internships-card .card{
-        width: 350px;
-        height: 250px;
+        width: 310px;
+        height: 300px;
     }
 
     .apply-button{
@@ -753,19 +747,17 @@ h1, h2, h3, h4, h5, h6 {
         margin-top: 2rem;
     }
     .process__content h1{
-        font-size: 24px;
+        font-size: 20px;
+        font-weight: bold;
     }
     .process__content p{
-        font-size: 16px;
-        padding: 20px;
+        font-size: 14px;
     }
     .process-cards{
         display: block;
-        margin: 0 2.6rem;
-        width: 90%;
     }
     .process-card{
-        width: 300px;
+        width: 270px;
         height: 250px;
        
     }
@@ -782,12 +774,8 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 12px;
     }
     .about{
-        margin-top: 35rem;
+        margin-top: 37rem;
         flex-direction: column;
-        padding: 50px 0;
-    }
-    .about__content{
-        padding: 0 2rem;
     }
     .about__content h1{
         font-size: 30px;
@@ -797,19 +785,24 @@ h1, h2, h3, h4, h5, h6 {
     }
     
     .about__img img{
-        width: 100%;
+        width: 80%;
         height: 250px;
+        border-radius: 15px;
     }
 
     .features{
-        margin-top: -2rem;
+        margin-top: -8rem;
     }
     .features__content h1{
         font-size: 30px;
     }
     .features__content p{
-        font-size: 16px;
+        font-size: 14px;
         padding: 0 25px;
+    }
+
+    .contact h1{
+        font-size: 30px;
     }
 
     .new_footer_area{
