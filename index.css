@@ -688,6 +688,10 @@ h1, h2, h3, h4, h5, h6 {
     .header__logo{
         margin-left: 5%;
     }
+    .header__menu{
+        margin-right: 10%;
+    }
+
     .banner{
         margin-top: 7rem;
         flex-direction: column;
