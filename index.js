@@ -71,4 +71,3 @@ function applyNow(){
     // open the link 
     window.open("https://forms.gle/jacdejq1ymPrzZWE7", "_blank");
 }
-
