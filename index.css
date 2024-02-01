@@ -379,7 +379,7 @@ hr{
 .about {
     display: flex;
     padding: 100px 0;
-    background-color: #f9f9f9; 
+    background-color: #ffffff; 
 }
 
 .about__content {
@@ -405,8 +405,8 @@ hr{
 }
 
 .about__img img {
-    max-width: 100%;
-    height: 200px;
+    width: 70%;
+    height: 350px;
 }
 
 .features{
